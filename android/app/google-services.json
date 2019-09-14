@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "973441419131",
+    "firebase_url": "https://tcc-cardapp.firebaseio.com",
+    "project_id": "tcc-cardapp",
+    "storage_bucket": "tcc-cardapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973441419131:android:a0ad0b17128f71ddfb1fde",
+        "android_client_info": {
+          "package_name": "com.trabalho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973441419131-8b8cbdleucudc3vpsubigoce3qb8mvbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnORBLc0dJrfSUnX4npPls8ggr2wSEspo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973441419131-8b8cbdleucudc3vpsubigoce3qb8mvbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
